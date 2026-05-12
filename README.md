@@ -15,7 +15,7 @@ El proyecto contiene ejercicios prácticos de nivel medio y avanzado relacionado
 
 ---
 
-# Contenido del Proyecto
+# Contenido del Deber
 
 ## Ejercicio 1 — Sistema Académico de Documentos
 
